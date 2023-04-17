@@ -1,0 +1,15 @@
+D:\c#\ciclo for\bin\Debug\net6.0\ciclo for.exe
+D:\c#\ciclo for\bin\Debug\net6.0\ciclo for.deps.json
+D:\c#\ciclo for\bin\Debug\net6.0\ciclo for.runtimeconfig.json
+D:\c#\ciclo for\bin\Debug\net6.0\ciclo for.dll
+D:\c#\ciclo for\bin\Debug\net6.0\ciclo for.pdb
+D:\c#\ciclo for\obj\Debug\net6.0\ciclo for.csproj.AssemblyReference.cache
+D:\c#\ciclo for\obj\Debug\net6.0\ciclo for.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ciclo for\obj\Debug\net6.0\ciclo for.AssemblyInfoInputs.cache
+D:\c#\ciclo for\obj\Debug\net6.0\ciclo for.AssemblyInfo.cs
+D:\c#\ciclo for\obj\Debug\net6.0\ciclo for.csproj.CoreCompileInputs.cache
+D:\c#\ciclo for\obj\Debug\net6.0\ciclo for.dll
+D:\c#\ciclo for\obj\Debug\net6.0\refint\ciclo for.dll
+D:\c#\ciclo for\obj\Debug\net6.0\ciclo for.pdb
+D:\c#\ciclo for\obj\Debug\net6.0\ciclo for.genruntimeconfig.cache
+D:\c#\ciclo for\obj\Debug\net6.0\ref\ciclo for.dll

@@ -1,0 +1,8 @@
+D:\c#\ciclo_for\bin\Debug\ciclo_for.exe.config
+D:\c#\ciclo_for\bin\Debug\ciclo_for.exe
+D:\c#\ciclo_for\bin\Debug\ciclo_for.pdb
+D:\c#\ciclo_for\obj\Debug\ciclo_for.csproj.AssemblyReference.cache
+D:\c#\ciclo_for\obj\Debug\ciclo_for.csproj.SuggestedBindingRedirects.cache
+D:\c#\ciclo_for\obj\Debug\ciclo_for.csproj.CoreCompileInputs.cache
+D:\c#\ciclo_for\obj\Debug\ciclo_for.exe
+D:\c#\ciclo_for\obj\Debug\ciclo_for.pdb
